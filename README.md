@@ -15,7 +15,7 @@ I’m an M.S. student in Carnegie Mellon University’s Information Networking I
 - 👨‍💻 Focus: Software Engineering, Backend Development, Computer Systems, AI/LLM Application Development, and Watching Cat Videos 🐈.
 - 📍 Coordinates: currently in Pittsburgh, will be in San Jose (CMU SV), proudly from Shenzhen, China.
 - 🏀 Off-hours: basketball, cooking experiments, travel, photography, cars, and yes, watch more cat videos 🐈.
-- 🤝 Collaborations/Opportunities: Feel free to reach out for any projects OR Software Engineer Intern/Fulltime postions, OR cat videos 🐈.
+- 🤝 Collaborations/Opportunities: Feel free to reach out for any projects OR Software Engineer Intern/Fulltime postions, OR if you have more cat videos 🐈.
 
 ### Tech Stack
 
