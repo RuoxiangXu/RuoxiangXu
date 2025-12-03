@@ -1,6 +1,6 @@
 # Hi, I'm Ruoxiang Xu 👋
 
-I’m an M.S. student in Carnegie Mellon’s Information Networking Institute, happiest when I’m writing elegant, scalable, high-performance code, and watching a fresh queue of cat videos 🐈.
+I’m an M.S. student in Carnegie Mellon University’s Information Networking Institute, happiest when I’m writing elegant, scalable, high-performance code, and watching a fresh queue of cat videos 🐈.
 
 <p align="left">
   <a href="https://ruoxiangxu.com" target="_blank">
