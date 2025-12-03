@@ -9,6 +9,7 @@ I’m an M.S. student in Carnegie Mellon’s Information Networking Institute, h
   <a href="mailto:ruoxiangxu2002@gmail.com">
     <img src="https://img.shields.io/badge/Email-ruoxiangxu2002%40gmail.com-e74c3c?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge">
   </a>
+  <img src="https://komarev.com/ghpvc/?username=RuoxiangXu&style=for-the-badge&color=8e44ad" alt="Profile views" />
 </p>
 
 - 👨‍💻 Focus: Software Engineering, Backend Development, Computer Systems, AI/LLM Application Development, and Watching Cat Videos 🐈.
